@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigelramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="rigelramadhan" /> </p>
 
-• 💻 I'm currently working on a project called [Mooviku](https://github.com/rigelramadhan/Mooviku)
+• 💻 I’m an Android Developer, as well as a Kotlin enthusiast
 
-• 📖 I’m studying **Advanced Android Development**
+• 📖 I'm currently learning, because the learning never stops
 
 • 🔗 LinkedIn [https://www.linkedin.com/in/rigel-ramadhan/](https://www.linkedin.com/in/rigel-ramadhan/)
 
